@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "349afeead4a4d84d6c52889103d8361d6c8b8a34",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2024-10-16 15:45:52",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #47 from ropensci-review-tools/installed\n\nallow input to be installed pkg name to fix #40"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgmatch",
+  "pkg": "pkgmatch"
+}

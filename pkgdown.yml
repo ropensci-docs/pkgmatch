@@ -1,0 +1,10 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  pkgmatch: pkgmatch.html
+  why-local-llms: why-local-llms.html
+last_built: 2024-10-16T16:16Z
+urls:
+  reference: https://docs.ropensci.org/pkgmatch/reference
+  article: https://docs.ropensci.org/pkgmatch/articles

@@ -1,0 +1,27 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/pkgmatch/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/CONTRIBUTING.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/LICENSE-text.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/LICENSE.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/articles/pkgmatch.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/articles/why-local-llms.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/head.pkgmatch.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/ollama_check.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch-package.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_bm25.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_bm25_fn_calls.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_browse.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_embeddings_from_pkgs.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_embeddings_from_text.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_load_data.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_similar_fns.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_similar_pkgs.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/pkgmatch_treesitter_fn_tags.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/print.pkgmatch.html</loc></url>
+<url><loc>https://docs.ropensci.org/pkgmatch/reference/text_is_code.html</loc></url>
+</urlset>
+
