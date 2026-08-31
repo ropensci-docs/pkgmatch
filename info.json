@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "1ba4224762f8c8d15d74beb2fba66bca6398de5c",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-06-24T10:07:54Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #310 from ropensci-review-tools/desc\n\nAdd @agricolamz as \"rev\" to DESC"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgmatch",
+  "pkg": "pkgmatch",
+  "time": "2026-08-31T10:13:48Z"
+}

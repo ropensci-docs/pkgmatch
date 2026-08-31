@@ -1,0 +1,11 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  A_extended-use-case: A_extended-use-case.html
+  B_data-caching-and-updating: B_data-caching-and-updating.html
+  pkgmatch: pkgmatch.html
+last_built: 2026-08-31T10:13Z
+urls:
+  reference: https://docs.ropensci.org/pkgmatch/reference
+  article: https://docs.ropensci.org/pkgmatch/articles
