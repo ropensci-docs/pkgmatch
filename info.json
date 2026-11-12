@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c2277f4c58abafb23c8182fdb2d5d845f5a055ee",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-11-12T13:34:28Z",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #312 from ropensci-review-tools/codeberg.bye\n\nchore: streamline maintenance, update installation instructions"
+  },
+  "repo": "https://github.com/ropensci-review-tools/pkgmatch",
+  "pkg": "pkgmatch",
+  "time": "2026-11-12T14:54:52Z"
+}
